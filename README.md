@@ -2,8 +2,8 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/saichandra84/inventory-management-using-LLM.git
+   cd inventory-management-using-LLM
 
 2. Set up virtual environments and install dependencies for both services:
    #Inventory Service
