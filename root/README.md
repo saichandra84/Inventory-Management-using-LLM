@@ -2,12 +2,13 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/saichandra84/inventory-management-using-LLM.git
+   cd inventory-management-using-LLM
+
 
 2. Set up virtual environments and install dependencies for both services:
    #Inventory Service
-   cd inventory-service
+   cd inventory_service
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
@@ -15,7 +16,7 @@
 
    #MCP Server
    Open a new terminal/tab:
-   cd mcp-server
+   cd mcp_server
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
